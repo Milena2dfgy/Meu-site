@@ -6,3 +6,11 @@ P{
   font-size:16px;
   color: #996699;
 }
+header {
+  boder-bottom: solid 3px #ca9c11;
+  padding:10px;
+  font-size:22px
+  color:white;
+}
+    
+
